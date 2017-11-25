@@ -1,0 +1,7 @@
+F:\vsprogram\paixu\paixu\bin\Debug\paixu.exe.config
+F:\vsprogram\paixu\paixu\bin\Debug\paixu.exe
+F:\vsprogram\paixu\paixu\bin\Debug\paixu.pdb
+F:\vsprogram\paixu\paixu\obj\Debug\paixu.csprojResolveAssemblyReference.cache
+F:\vsprogram\paixu\paixu\obj\Debug\paixu.csproj.CoreCompileInputs.cache
+F:\vsprogram\paixu\paixu\obj\Debug\paixu.exe
+F:\vsprogram\paixu\paixu\obj\Debug\paixu.pdb
