@@ -10,6 +10,7 @@ namespace 选择排序
     {
         static void Main(string[] args)
         {
+            //测试
             SelectNum sn = new SelectNum();
             int[] ArrayNum = { 5,8,6,12,15,13,9};
             sn.GetNum(ArrayNum);
@@ -39,6 +40,7 @@ namespace 选择排序
                         num = j;
                     }
                 }
+                //大数后移，小数前移
                 temp = Array[i];
                 Array[i] = Array[num];
                 Array[num] = temp;
