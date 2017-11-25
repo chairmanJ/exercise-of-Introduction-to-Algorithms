@@ -1,0 +1,7 @@
+F:\vsprogram\选择排序\选择排序\bin\Debug\选择排序.exe.config
+F:\vsprogram\选择排序\选择排序\bin\Debug\选择排序.exe
+F:\vsprogram\选择排序\选择排序\bin\Debug\选择排序.pdb
+F:\vsprogram\选择排序\选择排序\obj\Debug\习题2.2.2选择排序.csprojResolveAssemblyReference.cache
+F:\vsprogram\选择排序\选择排序\obj\Debug\习题2.2.2选择排序.csproj.CoreCompileInputs.cache
+F:\vsprogram\选择排序\选择排序\obj\Debug\选择排序.exe
+F:\vsprogram\选择排序\选择排序\obj\Debug\选择排序.pdb
